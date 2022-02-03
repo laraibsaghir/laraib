@@ -1,1 +1,0 @@
-var x = "Yes Hamza Bey bht achi smjh aari!";
